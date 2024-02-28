@@ -1507,7 +1507,7 @@
 
 .main-header-three .navbar-wrap>ul>li.active>a,
 .main-header-three .navbar-wrap>ul>li:hover>a {
-    color: var(--thm-primary);
+    color: #d8cbcb;
 }
 
 .main-header-three .navbar-wrap>ul>li.menu-item-has-children.active>a::after {

@@ -6057,3 +6057,10 @@ Project Two Project Details
     color: var(--thm-primary);
     font-weight: bold;
 }
+
+.newli{
+    text-align: justify;
+    list-style-type: square;
+    color: #575555;
+    padding-bottom: 2%;
+}

@@ -949,7 +949,7 @@
 
 .main-slider-three__content .title-box h2 span {
     color: transparent;
-    -webkit-text-stroke: 2px var(--thm-primary);
+    -webkit-text-stroke: 2px #fff;
 }
 
 .main-slider-three__content .btn-box {
